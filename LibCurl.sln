@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibCurl", "LibCurl\LibCurl.csproj", "{7D24F066-52A6-4095-BC1B-F5BECBF9F43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples", "Samples\Samples.csproj", "{2BC0CD45-DF4E-4E8B-9A05-C246287B3B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D24F066-52A6-4095-BC1B-F5BECBF9F43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D24F066-52A6-4095-BC1B-F5BECBF9F43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D24F066-52A6-4095-BC1B-F5BECBF9F43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D24F066-52A6-4095-BC1B-F5BECBF9F43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC0CD45-DF4E-4E8B-9A05-C246287B3B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC0CD45-DF4E-4E8B-9A05-C246287B3B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC0CD45-DF4E-4E8B-9A05-C246287B3B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC0CD45-DF4E-4E8B-9A05-C246287B3B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ..\Samples\Samples.csproj
+	EndGlobalSection
+EndGlobal
