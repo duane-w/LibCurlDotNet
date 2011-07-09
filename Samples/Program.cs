@@ -14,9 +14,6 @@ namespace Samples
 
             PostCallback pcb = new PostCallback();
             pcb.Perform();
-
-            //PIX p = new PIX();
-            //p.Perform();
         }
     }
 }
