@@ -2,7 +2,7 @@ This is a pure C# wrapper for libcurl.
 
 CURRENT STATUS
 --------------
-The entire libcurl API has not been created.  Just enough to provide a proof of concept has been completed.  See the Samples for completed functionality.
+The entire libcurl API has not been exposed.  Just enough to provide a proof of concept has been completed.  See the Samples for completed functionality.
 
 LibCurlDotNet does not require a C library to function.  It is pure C#.
 It is based on http://sourceforge.net/projects/libcurl-net/.
